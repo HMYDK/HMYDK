@@ -3,7 +3,7 @@
 <p>👨‍💻 I'm a Backend Developer. I like to try new technologies and develop some interesting open source projects</p>
 <!-- <p>📜 My website：<a href="" target="_blank">site name</a>. will write some technical blogs and life records</p> -->
 <p>🌱 I’m currently studying english</p>
-<!-- <p>📝 平台主页：<a href="https://blog.csdn.net/Paranoia_ZK" target="_blank">CSDN</a><p> -->
+<p>📝 HOME PAGE：<a href="https://home-page-six-rho.vercel.app/" target="_blank">HOME PAGE</a><p>
 
 
 
