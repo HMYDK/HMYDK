@@ -10,10 +10,8 @@
     align="right" />
 </picture>
 
-- 👋 Hi, I’m @HMYDK
+
 - 💻 Software engineer
-- 🕸 Full-Stack Web Developer
-- ☕️ Inide hacker
+- ☕️ Weekend Product Maker
 - 📱 Learning AIGC related
-- 📷 Interested in photography
 
