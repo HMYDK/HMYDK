@@ -3,16 +3,16 @@
   │  this README is a compiled artifact. do not edit by hand.            │
   │  source : scripts/render.mjs        data : data/profile.json         │
   │  build  : .github/workflows/profile.yml (daily, 03:17 UTC)           │
-  │  last   : 2026-11-10  ·  14 repos · 82★ · 825 contributions/365d
+  │  last   : 2026-11-10  ·  14 repos · 82★ · 826 contributions/365d
   └──────────────────────────────────────────────────────────────────────┘
 -->
 
 <p align="center">
-<a href="https://raw.githubusercontent.com/HMYDK/HMYDK/main/assets/hero-light.svg?v=5d147f530c" title="open the full-size card">
+<a href="https://raw.githubusercontent.com/HMYDK/HMYDK/main/assets/hero-light.svg?v=472ca6ee2f" title="open the full-size card">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HMYDK/HMYDK/main/assets/hero-dark.svg?v=5d147f530c">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HMYDK/HMYDK/main/assets/hero-light.svg?v=5d147f530c">
-  <img src="https://raw.githubusercontent.com/HMYDK/HMYDK/main/assets/hero-light.svg?v=5d147f530c" alt="HMYDK — terminal boot banner" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HMYDK/HMYDK/main/assets/hero-dark.svg?v=472ca6ee2f">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HMYDK/HMYDK/main/assets/hero-light.svg?v=472ca6ee2f">
+  <img src="https://raw.githubusercontent.com/HMYDK/HMYDK/main/assets/hero-light.svg?v=472ca6ee2f" alt="HMYDK — terminal boot banner" width="100%">
 </picture>
 </a>
 </p>
@@ -41,11 +41,11 @@
 ### `$ fastfetch --live`
 
 <p align="center">
-<a href="https://raw.githubusercontent.com/HMYDK/HMYDK/main/assets/telemetry-light.svg?v=5d147f530c" title="open the full-size card">
+<a href="https://raw.githubusercontent.com/HMYDK/HMYDK/main/assets/telemetry-light.svg?v=472ca6ee2f" title="open the full-size card">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HMYDK/HMYDK/main/assets/telemetry-dark.svg?v=5d147f530c">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HMYDK/HMYDK/main/assets/telemetry-light.svg?v=5d147f530c">
-  <img src="https://raw.githubusercontent.com/HMYDK/HMYDK/main/assets/telemetry-light.svg?v=5d147f530c" alt="HMYDK telemetry" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HMYDK/HMYDK/main/assets/telemetry-dark.svg?v=472ca6ee2f">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HMYDK/HMYDK/main/assets/telemetry-light.svg?v=472ca6ee2f">
+  <img src="https://raw.githubusercontent.com/HMYDK/HMYDK/main/assets/telemetry-light.svg?v=472ca6ee2f" alt="HMYDK telemetry" width="100%">
 </picture>
 </a>
 </p>
@@ -53,11 +53,11 @@
 ### `$ cloc .`
 
 <p align="center">
-<a href="https://raw.githubusercontent.com/HMYDK/HMYDK/main/assets/languages-light.svg?v=5d147f530c" title="open the full-size card">
+<a href="https://raw.githubusercontent.com/HMYDK/HMYDK/main/assets/languages-light.svg?v=472ca6ee2f" title="open the full-size card">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HMYDK/HMYDK/main/assets/languages-dark.svg?v=5d147f530c">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HMYDK/HMYDK/main/assets/languages-light.svg?v=5d147f530c">
-  <img src="https://raw.githubusercontent.com/HMYDK/HMYDK/main/assets/languages-light.svg?v=5d147f530c" alt="HMYDK language fingerprint" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HMYDK/HMYDK/main/assets/languages-dark.svg?v=472ca6ee2f">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HMYDK/HMYDK/main/assets/languages-light.svg?v=472ca6ee2f">
+  <img src="https://raw.githubusercontent.com/HMYDK/HMYDK/main/assets/languages-light.svg?v=472ca6ee2f" alt="HMYDK language fingerprint" width="100%">
 </picture>
 </a>
 </p>
@@ -92,11 +92,11 @@ method test-first · verify-always · ship-small · read-the-source
 ### `$ cat ~/.plan`
 
 <p align="center">
-<a href="https://raw.githubusercontent.com/HMYDK/HMYDK/main/assets/plan-light.svg?v=5d147f530c" title="open the full-size card">
+<a href="https://raw.githubusercontent.com/HMYDK/HMYDK/main/assets/plan-light.svg?v=472ca6ee2f" title="open the full-size card">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HMYDK/HMYDK/main/assets/plan-dark.svg?v=5d147f530c">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HMYDK/HMYDK/main/assets/plan-light.svg?v=5d147f530c">
-  <img src="https://raw.githubusercontent.com/HMYDK/HMYDK/main/assets/plan-light.svg?v=5d147f530c" alt="HMYDK plan" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HMYDK/HMYDK/main/assets/plan-dark.svg?v=472ca6ee2f">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HMYDK/HMYDK/main/assets/plan-light.svg?v=472ca6ee2f">
+  <img src="https://raw.githubusercontent.com/HMYDK/HMYDK/main/assets/plan-light.svg?v=472ca6ee2f" alt="HMYDK plan" width="100%">
 </picture>
 </a>
 </p>
@@ -107,7 +107,7 @@ method test-first · verify-always · ship-small · read-the-source
 $ ping hmydk
 PING hmydk (github.com/HMYDK): 56 data bytes
 64 bytes from HMYDK: seq=0 ttl=64 time=9.58y — online since 2017
-64 bytes from HMYDK: seq=1 ttl=64 time=825/yr — still shipping
+64 bytes from HMYDK: seq=1 ttl=64 time=826/yr — still shipping
 64 bytes from HMYDK: seq=2 ttl=64 time=82★ — top repo AIGitCommit
 --- hmydk ping statistics ---
 3 packets transmitted, 3 received, 0% packet loss
@@ -126,7 +126,7 @@ service involved is GitHub itself.
 
 ```console
 $ node scripts/collect.mjs && node scripts/render.mjs
-[collect] HMYDK: 14 repos · 82★ · 825 contributions/yr · streak 2 · longest 21
+[collect] HMYDK: 14 repos · 82★ · 826 contributions/yr · streak 3 · longest 21
 [render]  assets: 8 svg · README.md · build 2026-11-10
 ```
 
@@ -136,7 +136,7 @@ $ node scripts/collect.mjs && node scripts/render.mjs
 
 <p align="center">
   <sub>
-    <code>825</code> contributions / 365d ·
+    <code>826</code> contributions / 365d ·
     <code>21d</code> longest streak ·
     <code>82★</code> earned ·
     <code>11</code> followers ·
