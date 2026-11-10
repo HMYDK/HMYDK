@@ -58,9 +58,11 @@ function telemetry(t) {
 
   /* ---- contribution calendar, using the full width ---- */
   out += S.spans(L, 168, [["# ", t.dim], ["contribution calendar", t.fgStrong]], { size: 13 });
-  const lx = R - 5 * 15 - 3;
-  out += S.text(lx - 8, 168, "LESS", { size: 9.5, fill: t.dim, anchor: "end" });
-  for (let i = 0; i < 5; i++) out += S.rect(lx + i * 15, 159, 11, 11, { fill: t.level[i], rx: 2 });
+  const legendW = 5 * 15 - 4;
+  const moreW = S.mw(9.5, "MORE");
+  const squaresX = R - moreW - 8 - legendW;
+  out += S.text(squaresX - 8, 168, "LESS", { size: 9.5, fill: t.dim, anchor: "end" });
+  for (let i = 0; i < 5; i++) out += S.rect(squaresX + i * 15, 159, 11, 11, { fill: t.level[i], rx: 2 });
   out += S.text(R, 168, "MORE", { size: 9.5, fill: t.dim, anchor: "end" });
 
   const cell = 12.8;
