@@ -317,16 +317,19 @@ const CURATED = [
 ];
 
 function projectTable() {
-  const byName = new Map(data.topRepos.map((r) => [r.name, r]));
-  const rows = CURATED.map(([name, desc]) => {
-    const r = byName.get(name);
-    if (!r) return null;
-    const meta = `${r.language} · pushed ${r.pushedAt.slice(0, 7)}`;
-    const proof = r.stars ? `**${r.stars}★** · ${r.forks} forks — ` : "";
-    return `| [\`${name}\`](${r.url}) <br> <sub>${meta}</sub> | ${proof}${desc} |`;
-  }).filter(Boolean);
-  if (!rows.length) return "_no public repos yet_";
-  return ["| repo | what it is |", "|:--|:--|", ...rows].join("\n");
+  /* only repos that have been starred — no participation trophies */
+  const desc = new Map(CURATED);
+  const starred = data.topRepos
+    .filter((r) => r.stars > 0)
+    .sort((a, b) => b.stars - a.stars);
+  if (!starred.length) return "_no starred repos yet_";
+  return starred
+    .map((r) => {
+      const text = desc.get(r.name) || r.description || "no description yet";
+      const meta = [r.language, `pushed ${r.pushedAt.slice(0, 7)}`].filter(Boolean).join(" · ");
+      return `- [\`${r.name}\`](${r.url}) — **${r.stars}★** · ${r.forks} forks · ${meta} — ${text}`;
+    })
+    .join("\n");
 }
 
 function timeline() {
@@ -372,7 +375,7 @@ ${pic("hero", "HMYDK — terminal boot banner")}
 > Previously: JetBrains plugins, macOS tooling, backend platforms.
 > Optimizing for: ship small, own the stack, read the source.
 
-### \`$ ls ~/projects\`
+### \`$ ls ~/projects --starred\`
 
 <!-- AUTOGEN:projects -->
 ${projectTable()}

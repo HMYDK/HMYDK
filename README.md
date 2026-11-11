@@ -20,16 +20,10 @@
 > Previously: JetBrains plugins, macOS tooling, backend platforms.
 > Optimizing for: ship small, own the stack, read the source.
 
-### `$ ls ~/projects`
+### `$ ls ~/projects --starred`
 
 <!-- AUTOGEN:projects -->
-| repo | what it is |
-|:--|:--|
-| [`AIGitCommit`](https://github.com/HMYDK/AIGitCommit) <br> <sub>Java · pushed 2026-08</sub> | **82★** · 30 forks — JetBrains plugin that writes your commit messages from the diff. The one people actually use. |
-| [`ai-native-sdlc-dsh`](https://github.com/HMYDK/ai-native-sdlc-dsh) <br> <sub>TypeScript · pushed 2026-11</sub> | AI-native SDLC as a DeepSeek Harness plugin: task state machine, artifact chain, independent verification |
-| [`mcp-manager`](https://github.com/HMYDK/mcp-manager) <br> <sub>Swift · pushed 2026-03</sub> | SwiftUI control panel for MCP servers |
-| [`switch-your-fucking-language-version`](https://github.com/HMYDK/switch-your-fucking-language-version) <br> <sub>Swift · pushed 2026-02</sub> | Native SwiftUI app to switch Java / Node / Python / Go versions on macOS |
-| [`code-on-phone`](https://github.com/HMYDK/code-on-phone) <br> <sub>Shell · pushed 2026-02</sub> | Coding from a phone, because laptops are heavy |
+- [`AIGitCommit`](https://github.com/HMYDK/AIGitCommit) — **82★** · 30 forks · Java · pushed 2026-08 — JetBrains plugin that writes your commit messages from the diff. The one people actually use.
 <!-- /AUTOGEN:projects -->
 
 ### `$ fastfetch --live`
