@@ -4,11 +4,11 @@
 -->
 
 <p align="center">
-<a href="https://raw.githubusercontent.com/HMYDK/HMYDK/main/assets/hero-light.svg?v=48bc842b04" title="open the full-size card">
+<a href="https://raw.githubusercontent.com/HMYDK/HMYDK/main/assets/hero-light.svg?v=7a2a9efa4a" title="open the full-size card">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HMYDK/HMYDK/main/assets/hero-dark.svg?v=48bc842b04">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HMYDK/HMYDK/main/assets/hero-light.svg?v=48bc842b04">
-  <img src="https://raw.githubusercontent.com/HMYDK/HMYDK/main/assets/hero-light.svg?v=48bc842b04" alt="HMYDK — terminal boot banner" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HMYDK/HMYDK/main/assets/hero-dark.svg?v=7a2a9efa4a">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HMYDK/HMYDK/main/assets/hero-light.svg?v=7a2a9efa4a">
+  <img src="https://raw.githubusercontent.com/HMYDK/HMYDK/main/assets/hero-light.svg?v=7a2a9efa4a" alt="HMYDK — terminal boot banner" width="100%">
 </picture>
 </a>
 </p>
@@ -28,7 +28,6 @@
 | [`AIGitCommit`](https://github.com/HMYDK/AIGitCommit) <br> <sub>Java · pushed 2026-08</sub> | **82★** · 30 forks — JetBrains plugin that writes your commit messages from the diff. The one people actually use. |
 | [`ai-native-sdlc-dsh`](https://github.com/HMYDK/ai-native-sdlc-dsh) <br> <sub>TypeScript · pushed 2026-11</sub> | AI-native SDLC as a DeepSeek Harness plugin: task state machine, artifact chain, independent verification |
 | [`mcp-manager`](https://github.com/HMYDK/mcp-manager) <br> <sub>Swift · pushed 2026-03</sub> | SwiftUI control panel for MCP servers |
-| [`AICodeToolSet`](https://github.com/HMYDK/AICodeToolSet) <br> <sub>Java · pushed 2024-08</sub> | A toolbox of AI code utilities for JetBrains IDEs |
 | [`switch-your-fucking-language-version`](https://github.com/HMYDK/switch-your-fucking-language-version) <br> <sub>Swift · pushed 2026-02</sub> | Native SwiftUI app to switch Java / Node / Python / Go versions on macOS |
 | [`code-on-phone`](https://github.com/HMYDK/code-on-phone) <br> <sub>Shell · pushed 2026-02</sub> | Coding from a phone, because laptops are heavy |
 <!-- /AUTOGEN:projects -->
@@ -36,11 +35,11 @@
 ### `$ fastfetch --live`
 
 <p align="center">
-<a href="https://raw.githubusercontent.com/HMYDK/HMYDK/main/assets/telemetry-light.svg?v=48bc842b04" title="open the full-size card">
+<a href="https://raw.githubusercontent.com/HMYDK/HMYDK/main/assets/telemetry-light.svg?v=7a2a9efa4a" title="open the full-size card">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HMYDK/HMYDK/main/assets/telemetry-dark.svg?v=48bc842b04">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HMYDK/HMYDK/main/assets/telemetry-light.svg?v=48bc842b04">
-  <img src="https://raw.githubusercontent.com/HMYDK/HMYDK/main/assets/telemetry-light.svg?v=48bc842b04" alt="HMYDK contribution telemetry" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HMYDK/HMYDK/main/assets/telemetry-dark.svg?v=7a2a9efa4a">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HMYDK/HMYDK/main/assets/telemetry-light.svg?v=7a2a9efa4a">
+  <img src="https://raw.githubusercontent.com/HMYDK/HMYDK/main/assets/telemetry-light.svg?v=7a2a9efa4a" alt="HMYDK contribution telemetry" width="100%">
 </picture>
 </a>
 </p>
@@ -48,11 +47,11 @@
 ### `$ cloc .`
 
 <p align="center">
-<a href="https://raw.githubusercontent.com/HMYDK/HMYDK/main/assets/languages-light.svg?v=48bc842b04" title="open the full-size card">
+<a href="https://raw.githubusercontent.com/HMYDK/HMYDK/main/assets/languages-light.svg?v=7a2a9efa4a" title="open the full-size card">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HMYDK/HMYDK/main/assets/languages-dark.svg?v=48bc842b04">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HMYDK/HMYDK/main/assets/languages-light.svg?v=48bc842b04">
-  <img src="https://raw.githubusercontent.com/HMYDK/HMYDK/main/assets/languages-light.svg?v=48bc842b04" alt="HMYDK language fingerprint" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HMYDK/HMYDK/main/assets/languages-dark.svg?v=7a2a9efa4a">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HMYDK/HMYDK/main/assets/languages-light.svg?v=7a2a9efa4a">
+  <img src="https://raw.githubusercontent.com/HMYDK/HMYDK/main/assets/languages-light.svg?v=7a2a9efa4a" alt="HMYDK language fingerprint" width="100%">
 </picture>
 </a>
 </p>
@@ -62,12 +61,12 @@
 <!-- AUTOGEN:timeline -->
 <pre>
 # recent public activity · UTC
-2026-11-10 02:53  <a href="https://github.com/wechaty/wechaty">starred wechaty/wechaty</a>
-2026-11-09 09:53  <a href="https://github.com/HMYDK/OpenViking/compare/c66884cd33...fc79d7acbb">pushed OpenViking</a>
-2026-11-09 08:41  <a href="https://github.com/volcengine/OpenViking/issues/5894#issuecomment-6735809599">commented on an issue in OpenViking</a>
-2026-11-09 08:41  <a href="https://github.com/HMYDK/OpenViking/compare/579d012c35...c66884cd33">pushed OpenViking</a>
-2026-11-09 08:26  <a href="https://github.com/volcengine/OpenViking/pull/7266">opened a pull request in OpenViking</a>
-2026-11-09 08:12  <a href="https://github.com/volcengine/OpenViking/issues/5894#issuecomment-6735324883">commented on an issue in OpenViking</a>
+2026-11-10 14:43  <a href="https://github.com/HMYDK/ai-native-sdlc-dsh/compare/97b7acd47d...81ed18eb65">pushed ai-native-sdlc-dsh</a>
+2026-11-10 14:34  <a href="https://github.com/HMYDK/ai-native-sdlc-dsh/issues/8#issuecomment-6770085636">commented on an issue in ai-native-sdlc-dsh</a>
+2026-11-10 14:33  <a href="https://github.com/HMYDK/ai-native-sdlc-dsh/issues/12#issuecomment-6770081974">commented on an issue in ai-native-sdlc-dsh</a>
+2026-11-10 14:31  <a href="https://github.com/HMYDK/ai-native-sdlc-dsh/compare/7c1ba55d17...8ede145405">pushed ai-native-sdlc-dsh</a>
+2026-11-10 14:05  <a href="https://github.com/HMYDK/ai-native-sdlc-dsh/pull/14">opened a pull request in ai-native-sdlc-dsh</a>
+2026-11-10 14:01  <a href="https://github.com/HMYDK/ai-native-sdlc-dsh/pull/13">opened a pull request in ai-native-sdlc-dsh</a>
 </pre>
 <!-- /AUTOGEN:timeline -->
 
@@ -85,7 +84,7 @@ No third-party stat cards, no trackers — rebuilt daily by GitHub Actions.
 
 <p align="center">
   <sub>
-    compiled 2026-11-10 ·
+    compiled 2026-11-11 ·
     <a href="https://github.com/HMYDK/HMYDK">source</a> ·
     open an issue on any repo if you want to talk
   </sub>
