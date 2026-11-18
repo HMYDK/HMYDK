@@ -8,31 +8,31 @@
   "website": "https://github.com/HMYDK",
   "avatar": "https://avatars.githubusercontent.com/u/27269137?s=240&u=5a7c9da77e4f4abb5c18fc8a78f1c6080dd594e1&v=4",
   "createdAt": "2017-04-11T06:22:33Z",
-  "updatedAt": "2026-11-17",
+  "updatedAt": "2026-11-18",
   "totals": {
-    "stars": 82,
+    "stars": 84,
     "forks": 31,
     "publicRepos": 15,
     "publicForks": 17,
     "followers": 12,
     "following": 3,
     "commits": 622,
-    "contributions": 1773,
+    "contributions": 1775,
     "joinedYear": 2017,
-    "tenureYears": 9.6,
-    "topRepoStars": 82,
+    "tenureYears": 9.61,
+    "topRepoStars": 83,
     "topRepo": "AIGitCommit"
   },
   "calendar": {
-    "totalYear": 1013,
+    "totalYear": 1015,
     "maxDay": {
       "date": "2026-10-08",
       "count": 65,
       "weekday": 4
     },
-    "currentStreak": 21,
-    "longestStreak": 21,
-    "activeDays": 195,
+    "currentStreak": 22,
+    "longestStreak": 22,
+    "activeDays": 196,
     "days": [
       {
         "date": "2025-11-16",
@@ -1866,8 +1866,13 @@
       },
       {
         "date": "2026-11-17",
-        "count": 1,
+        "count": 2,
         "weekday": 2
+      },
+      {
+        "date": "2026-11-18",
+        "count": 1,
+        "weekday": 3
       }
     ]
   },
@@ -1914,7 +1919,7 @@
     },
     {
       "month": "Nov",
-      "count": 251
+      "count": 253
     },
     {
       "month": "Dec",
@@ -1932,11 +1937,11 @@
     },
     {
       "day": "Tue",
-      "count": 100
+      "count": 101
     },
     {
       "day": "Wed",
-      "count": 163
+      "count": 164
     },
     {
       "day": "Thu",
@@ -2026,7 +2031,7 @@
     },
     {
       "year": 2026,
-      "contributions": 980,
+      "contributions": 982,
       "commits": 349,
       "prs": 44,
       "issues": 15,
@@ -2154,7 +2159,7 @@
       "description": "This plugin uses AI to automatically generate commit messages based on the changes in your code.",
       "url": "https://github.com/HMYDK/AIGitCommit",
       "homepage": "https://ai-commit.com",
-      "stars": 82,
+      "stars": 83,
       "forks": 30,
       "language": "Java",
       "languageColor": "#b07219",
@@ -2162,6 +2167,39 @@
       "topics": [
         "jetbrains-plugin"
       ]
+    },
+    {
+      "name": "dsh-notify",
+      "description": "Desktop notifications for DeepSeek Harness: turn-complete and approval-requested alerts.",
+      "url": "https://github.com/HMYDK/dsh-notify",
+      "homepage": "",
+      "stars": 1,
+      "forks": 0,
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "pushedAt": "2026-11-15T02:03:21Z",
+      "topics": [
+        "bundle",
+        "deepseek",
+        "deepseek-harness",
+        "dsh",
+        "macos",
+        "notifications",
+        "plugin",
+        "dsh-plugin"
+      ]
+    },
+    {
+      "name": "HMYDK",
+      "description": "",
+      "url": "https://github.com/HMYDK/HMYDK",
+      "homepage": "",
+      "stars": 0,
+      "forks": 0,
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "pushedAt": "2026-11-17T11:46:13Z",
+      "topics": []
     },
     {
       "name": "ai-native-sdlc-dsh",
@@ -2184,39 +2222,6 @@
         "deepseek-harness-plugin",
         "dsh-plugin",
         "dsh-plugins"
-      ]
-    },
-    {
-      "name": "HMYDK",
-      "description": "",
-      "url": "https://github.com/HMYDK/HMYDK",
-      "homepage": "",
-      "stars": 0,
-      "forks": 0,
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "pushedAt": "2026-11-16T11:07:22Z",
-      "topics": []
-    },
-    {
-      "name": "dsh-notify",
-      "description": "Desktop notifications for DeepSeek Harness: turn-complete and approval-requested alerts.",
-      "url": "https://github.com/HMYDK/dsh-notify",
-      "homepage": "",
-      "stars": 0,
-      "forks": 0,
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "pushedAt": "2026-11-15T02:03:21Z",
-      "topics": [
-        "bundle",
-        "deepseek",
-        "deepseek-harness",
-        "dsh",
-        "macos",
-        "notifications",
-        "plugin",
-        "dsh-plugin"
       ]
     },
     {
@@ -2272,6 +2277,24 @@
     {
       "kind": "pushed",
       "message": "pushed ai-native-sdlc-dsh",
+      "link": "https://github.com/HMYDK/ai-native-sdlc-dsh/compare/2b781b569f...7837e9a41f",
+      "at": "2026-11-16T13:24:54.000Z"
+    },
+    {
+      "kind": "pushed",
+      "message": "pushed ai-native-sdlc-dsh",
+      "link": "https://github.com/HMYDK/ai-native-sdlc-dsh/compare/7074e752c9...b6bd75b1bf",
+      "at": "2026-11-16T02:34:23.000Z"
+    },
+    {
+      "kind": "pushed",
+      "message": "pushed ai-native-sdlc-dsh",
+      "link": "https://github.com/HMYDK/ai-native-sdlc-dsh/compare/90e48cec28...5ee68cd0b5",
+      "at": "2026-11-15T10:34:22.000Z"
+    },
+    {
+      "kind": "pushed",
+      "message": "pushed ai-native-sdlc-dsh",
       "link": "https://github.com/HMYDK/ai-native-sdlc-dsh/compare/f5ad48b810...e2fe8c2b80",
       "at": "2026-11-15T18:28:12.000Z"
     },
@@ -2292,54 +2315,6 @@
       "message": "pushed ai-native-sdlc-dsh",
       "link": "https://github.com/HMYDK/ai-native-sdlc-dsh/compare/a1693bc1c2...401f091179",
       "at": "2026-11-15T15:58:31.000Z"
-    },
-    {
-      "kind": "labeled",
-      "message": "labeled an issue in AIGitCommit",
-      "link": "https://github.com/HMYDK/AIGitCommit/issues/101",
-      "at": "2026-11-16T19:03:36.000Z"
-    },
-    {
-      "kind": "commented",
-      "message": "commented on an issue in AIGitCommit",
-      "link": "https://github.com/HMYDK/AIGitCommit/issues/101#issuecomment-6926158776",
-      "at": "2026-11-16T19:03:34.000Z"
-    },
-    {
-      "kind": "commented",
-      "message": "commented on pull request HMYDK/ai-native-sdlc-dsh#28",
-      "link": "https://github.com/HMYDK/ai-native-sdlc-dsh/pull/28#discussion_r4586265168",
-      "at": "2026-11-16T13:23:51.000Z"
-    },
-    {
-      "kind": "commented",
-      "message": "commented on pull request HMYDK/ai-native-sdlc-dsh#28",
-      "link": "https://github.com/HMYDK/ai-native-sdlc-dsh/pull/28#discussion_r4586260928",
-      "at": "2026-11-16T13:23:28.000Z"
-    },
-    {
-      "kind": "commented",
-      "message": "commented on an issue in ai-native-sdlc-dsh",
-      "link": "https://github.com/HMYDK/ai-native-sdlc-dsh/issues/22#issuecomment-6920515035",
-      "at": "2026-11-16T15:18:04.000Z"
-    },
-    {
-      "kind": "commented",
-      "message": "commented on an issue in ai-native-sdlc-dsh",
-      "link": "https://github.com/HMYDK/ai-native-sdlc-dsh/issues/22#issuecomment-6920316115",
-      "at": "2026-11-16T15:10:31.000Z"
-    },
-    {
-      "kind": "commented",
-      "message": "commented on pull request HMYDK/ai-native-sdlc-dsh#28",
-      "link": "https://github.com/HMYDK/ai-native-sdlc-dsh/pull/28#discussion_r4586264400",
-      "at": "2026-11-16T13:23:47.000Z"
-    },
-    {
-      "kind": "commented",
-      "message": "commented on pull request HMYDK/ai-native-sdlc-dsh#28",
-      "link": "https://github.com/HMYDK/ai-native-sdlc-dsh/pull/28#discussion_r4586263790",
-      "at": "2026-11-16T13:23:43.000Z"
     }
   ]
 }
