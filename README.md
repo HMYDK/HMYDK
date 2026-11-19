@@ -4,11 +4,11 @@
 -->
 
 <p align="center">
-<a href="https://raw.githubusercontent.com/HMYDK/HMYDK/main/assets/hero-light.svg?v=5539ad40da" title="open the full-size card">
+<a href="https://raw.githubusercontent.com/HMYDK/HMYDK/main/assets/hero-light.svg?v=07eff31f48" title="open the full-size card">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HMYDK/HMYDK/main/assets/hero-dark.svg?v=5539ad40da">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HMYDK/HMYDK/main/assets/hero-light.svg?v=5539ad40da">
-  <img src="https://raw.githubusercontent.com/HMYDK/HMYDK/main/assets/hero-light.svg?v=5539ad40da" alt="HMYDK — terminal boot banner" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HMYDK/HMYDK/main/assets/hero-dark.svg?v=07eff31f48">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HMYDK/HMYDK/main/assets/hero-light.svg?v=07eff31f48">
+  <img src="https://raw.githubusercontent.com/HMYDK/HMYDK/main/assets/hero-light.svg?v=07eff31f48" alt="HMYDK — terminal boot banner" width="100%">
 </picture>
 </a>
 </p>
@@ -30,11 +30,11 @@
 ### `$ fastfetch --live`
 
 <p align="center">
-<a href="https://raw.githubusercontent.com/HMYDK/HMYDK/main/assets/telemetry-light.svg?v=5539ad40da" title="open the full-size card">
+<a href="https://raw.githubusercontent.com/HMYDK/HMYDK/main/assets/telemetry-light.svg?v=07eff31f48" title="open the full-size card">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HMYDK/HMYDK/main/assets/telemetry-dark.svg?v=5539ad40da">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HMYDK/HMYDK/main/assets/telemetry-light.svg?v=5539ad40da">
-  <img src="https://raw.githubusercontent.com/HMYDK/HMYDK/main/assets/telemetry-light.svg?v=5539ad40da" alt="HMYDK contribution telemetry" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HMYDK/HMYDK/main/assets/telemetry-dark.svg?v=07eff31f48">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HMYDK/HMYDK/main/assets/telemetry-light.svg?v=07eff31f48">
+  <img src="https://raw.githubusercontent.com/HMYDK/HMYDK/main/assets/telemetry-light.svg?v=07eff31f48" alt="HMYDK contribution telemetry" width="100%">
 </picture>
 </a>
 </p>
@@ -42,11 +42,11 @@
 ### `$ cloc .`
 
 <p align="center">
-<a href="https://raw.githubusercontent.com/HMYDK/HMYDK/main/assets/languages-light.svg?v=5539ad40da" title="open the full-size card">
+<a href="https://raw.githubusercontent.com/HMYDK/HMYDK/main/assets/languages-light.svg?v=07eff31f48" title="open the full-size card">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HMYDK/HMYDK/main/assets/languages-dark.svg?v=5539ad40da">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HMYDK/HMYDK/main/assets/languages-light.svg?v=5539ad40da">
-  <img src="https://raw.githubusercontent.com/HMYDK/HMYDK/main/assets/languages-light.svg?v=5539ad40da" alt="HMYDK language fingerprint" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HMYDK/HMYDK/main/assets/languages-dark.svg?v=07eff31f48">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HMYDK/HMYDK/main/assets/languages-light.svg?v=07eff31f48">
+  <img src="https://raw.githubusercontent.com/HMYDK/HMYDK/main/assets/languages-light.svg?v=07eff31f48" alt="HMYDK language fingerprint" width="100%">
 </picture>
 </a>
 </p>
@@ -56,12 +56,12 @@
 <!-- AUTOGEN:timeline -->
 <pre>
 # recent public activity · UTC
+2026-11-19 06:03  <a href="https://github.com/HMYDK/AIGitCommit/issues/102">labeled an issue in AIGitCommit</a>
+2026-11-19 06:03  <a href="https://github.com/HMYDK/AIGitCommit/issues/102#issuecomment-7001202291">commented on an issue in AIGitCommit</a>
 2026-11-16 13:24  <a href="https://github.com/HMYDK/ai-native-sdlc-dsh/compare/2b781b569f...7837e9a41f">pushed ai-native-sdlc-dsh</a>
 2026-11-16 07:34  <a href="https://github.com/HMYDK/ai-native-sdlc-dsh/compare/b5148358c3...f7c4ad340b">pushed ai-native-sdlc-dsh</a>
 2026-11-16 07:24  <a href="https://github.com/HMYDK/ai-native-sdlc-dsh/compare/e483d53590...b5148358c3">pushed ai-native-sdlc-dsh</a>
 2026-11-16 02:34  <a href="https://github.com/HMYDK/ai-native-sdlc-dsh/compare/7074e752c9...b6bd75b1bf">pushed ai-native-sdlc-dsh</a>
-2026-11-15 18:28  <a href="https://github.com/HMYDK/ai-native-sdlc-dsh/compare/f5ad48b810...e2fe8c2b80">pushed ai-native-sdlc-dsh</a>
-2026-11-15 15:58  <a href="https://github.com/HMYDK/ai-native-sdlc-dsh/compare/a1693bc1c2...401f091179">pushed ai-native-sdlc-dsh</a>
 </pre>
 <!-- /AUTOGEN:timeline -->
 
@@ -79,7 +79,7 @@ No third-party stat cards, no trackers — rebuilt daily by GitHub Actions.
 
 <p align="center">
   <sub>
-    compiled 2026-11-18 ·
+    compiled 2026-11-19 ·
     <a href="https://github.com/HMYDK/HMYDK">source</a> ·
     open an issue on any repo if you want to talk
   </sub>
