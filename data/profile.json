@@ -8,7 +8,7 @@
   "website": "https://github.com/HMYDK",
   "avatar": "https://avatars.githubusercontent.com/u/27269137?s=240&u=5a7c9da77e4f4abb5c18fc8a78f1c6080dd594e1&v=4",
   "createdAt": "2017-04-11T06:22:33Z",
-  "updatedAt": "2026-11-20",
+  "updatedAt": "2026-11-21",
   "totals": {
     "stars": 83,
     "forks": 30,
@@ -16,23 +16,23 @@
     "publicForks": 17,
     "followers": 12,
     "following": 3,
-    "commits": 622,
-    "contributions": 1777,
+    "commits": 633,
+    "contributions": 1803,
     "joinedYear": 2017,
     "tenureYears": 9.61,
     "topRepoStars": 82,
     "topRepo": "AIGitCommit"
   },
   "calendar": {
-    "totalYear": 1017,
+    "totalYear": 1043,
     "maxDay": {
-      "date": "2026-10-08",
-      "count": 65,
+      "date": "2026-11-12",
+      "count": 69,
       "weekday": 4
     },
-    "currentStreak": 0,
-    "longestStreak": 22,
-    "activeDays": 196,
+    "currentStreak": 25,
+    "longestStreak": 25,
+    "activeDays": 199,
     "days": [
       {
         "date": "2025-11-16",
@@ -1841,27 +1841,27 @@
       },
       {
         "date": "2026-11-12",
-        "count": 65,
+        "count": 69,
         "weekday": 4
       },
       {
         "date": "2026-11-13",
-        "count": 3,
+        "count": 4,
         "weekday": 5
       },
       {
         "date": "2026-11-14",
-        "count": 14,
+        "count": 15,
         "weekday": 6
       },
       {
         "date": "2026-11-15",
-        "count": 14,
+        "count": 15,
         "weekday": 0
       },
       {
         "date": "2026-11-16",
-        "count": 9,
+        "count": 12,
         "weekday": 1
       },
       {
@@ -1876,13 +1876,18 @@
       },
       {
         "date": "2026-11-19",
-        "count": 0,
+        "count": 3,
         "weekday": 4
       },
       {
         "date": "2026-11-20",
-        "count": 0,
+        "count": 2,
         "weekday": 5
+      },
+      {
+        "date": "2026-11-21",
+        "count": 11,
+        "weekday": 6
       }
     ]
   },
@@ -1929,7 +1934,7 @@
     },
     {
       "month": "Nov",
-      "count": 255
+      "count": 281
     },
     {
       "month": "Dec",
@@ -1939,11 +1944,11 @@
   "weekday": [
     {
       "day": "Sun",
-      "count": 121
+      "count": 122
     },
     {
       "day": "Mon",
-      "count": 110
+      "count": 113
     },
     {
       "day": "Tue",
@@ -1955,15 +1960,15 @@
     },
     {
       "day": "Thu",
-      "count": 221
+      "count": 228
     },
     {
       "day": "Fri",
-      "count": 146
+      "count": 149
     },
     {
       "day": "Sat",
-      "count": 152
+      "count": 164
     }
   ],
   "yearly": [
@@ -2041,10 +2046,10 @@
     },
     {
       "year": 2026,
-      "contributions": 984,
-      "commits": 349,
-      "prs": 44,
-      "issues": 15,
+      "contributions": 1010,
+      "commits": 360,
+      "prs": 47,
+      "issues": 17,
       "reviews": 0
     }
   ],
@@ -2053,63 +2058,59 @@
       "name": "JavaScript",
       "color": "#f1e05a",
       "bytes": 734833,
-      "percent": 21.00831374970696
+      "percent": 20.35724981141024
     },
     {
       "name": "HTML",
       "color": "#e34c26",
       "bytes": 718980,
-      "percent": 20.555088598041067
+      "percent": 19.918070458740605
     },
     {
       "name": "TypeScript",
       "color": "#3178c6",
       "bytes": 653399,
-      "percent": 18.680177939402256
+      "percent": 18.10126473569592
     },
     {
       "name": "Java",
       "color": "#b07219",
-      "bytes": 477055,
-      "percent": 13.638637780103036
+      "bytes": 588922,
+      "percent": 16.315043381877707
     },
     {
       "name": "Python",
       "color": "#3572A5",
       "bytes": 469086,
-      "percent": 13.410810161757894
+      "percent": 12.995198752689637
     },
     {
       "name": "Swift",
       "color": "#F05138",
       "bytes": 331232,
-      "percent": 9.469669679972096
+      "percent": 9.17619727139777
     },
     {
       "name": "CSS",
       "color": "#663399",
       "bytes": 57728,
-      "percent": 1.6503993916210669
+      "percent": 1.5992522343349993
     },
     {
       "name": "Shell",
       "color": "#89e051",
       "bytes": 55201,
-      "percent": 1.5781543933078317
+      "percent": 1.52924616455665
     },
     {
       "name": "Dockerfile",
       "color": "#384d54",
       "bytes": 306,
-      "percent": 0.008748306087791825
+      "percent": 0.008477189296468087
     }
   ],
-  "languageTotalBytes": 3497820,
+  "languageTotalBytes": 3609687,
   "topics": [
-    {
-      "name": "jetbrains-plugin",
-      "count": 2
-    },
     {
       "name": "deepseek-harness",
       "count": 2
@@ -2120,6 +2121,10 @@
     },
     {
       "name": "dsh-plugin",
+      "count": 2
+    },
+    {
+      "name": "jetbrains-plugin",
       "count": 2
     },
     {
@@ -2173,7 +2178,7 @@
       "forks": 29,
       "language": "Java",
       "languageColor": "#b07219",
-      "pushedAt": "2026-11-16T15:48:40Z",
+      "pushedAt": "2026-11-21T02:41:27Z",
       "topics": [
         "jetbrains-plugin"
       ]
@@ -2200,18 +2205,6 @@
       ]
     },
     {
-      "name": "HMYDK",
-      "description": "",
-      "url": "https://github.com/HMYDK/HMYDK",
-      "homepage": "",
-      "stars": 0,
-      "forks": 0,
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "pushedAt": "2026-11-19T11:32:44Z",
-      "topics": []
-    },
-    {
       "name": "ai-native-sdlc-dsh",
       "description": "AI 原生 SDLC 作为 DeepSeek Harness 插件：任务状态机、制品链、独立验证、问题闭环与 RSI",
       "url": "https://github.com/HMYDK/ai-native-sdlc-dsh",
@@ -2220,7 +2213,7 @@
       "forks": 0,
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "pushedAt": "2026-11-16T13:24:53Z",
+      "pushedAt": "2026-11-21T04:27:39Z",
       "topics": [
         "ai-native",
         "deepseek-harness",
@@ -2233,6 +2226,18 @@
         "dsh-plugin",
         "dsh-plugins"
       ]
+    },
+    {
+      "name": "HMYDK",
+      "description": "",
+      "url": "https://github.com/HMYDK/HMYDK",
+      "homepage": "",
+      "stars": 0,
+      "forks": 0,
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "pushedAt": "2026-11-20T11:29:38Z",
+      "topics": []
     },
     {
       "name": "switch-your-fucking-language-version",
@@ -2285,58 +2290,136 @@
   ],
   "events": [
     {
+      "kind": "closed",
+      "message": "closed an issue in AIGitCommit",
+      "link": "https://github.com/HMYDK/AIGitCommit/issues/103",
+      "at": "2026-11-21T10:36:59.000Z"
+    },
+    {
       "kind": "commented",
       "message": "commented on an issue in AIGitCommit",
-      "link": "https://github.com/HMYDK/AIGitCommit/issues/102#issuecomment-7001202291",
-      "at": "2026-11-19T06:03:26.000Z"
+      "link": "https://github.com/HMYDK/AIGitCommit/issues/103#issuecomment-7061356929",
+      "at": "2026-11-21T10:36:57.000Z"
     },
     {
-      "kind": "labeled",
-      "message": "labeled an issue in AIGitCommit",
-      "link": "https://github.com/HMYDK/AIGitCommit/issues/102",
-      "at": "2026-11-19T06:03:30.000Z"
+      "kind": "closed",
+      "message": "closed an issue in AIGitCommit",
+      "link": "https://github.com/HMYDK/AIGitCommit/issues/101",
+      "at": "2026-11-21T10:36:55.000Z"
+    },
+    {
+      "kind": "commented",
+      "message": "commented on an issue in AIGitCommit",
+      "link": "https://github.com/HMYDK/AIGitCommit/issues/101#issuecomment-7061356355",
+      "at": "2026-11-21T10:36:53.000Z"
+    },
+    {
+      "kind": "closed",
+      "message": "closed an issue in AIGitCommit",
+      "link": "https://github.com/HMYDK/AIGitCommit/issues/98",
+      "at": "2026-11-21T10:36:52.000Z"
+    },
+    {
+      "kind": "commented",
+      "message": "commented on an issue in AIGitCommit",
+      "link": "https://github.com/HMYDK/AIGitCommit/issues/98#issuecomment-7061355675",
+      "at": "2026-11-21T10:36:50.000Z"
+    },
+    {
+      "kind": "closed",
+      "message": "closed an issue in AIGitCommit",
+      "link": "https://github.com/HMYDK/AIGitCommit/issues/96",
+      "at": "2026-11-21T10:36:48.000Z"
+    },
+    {
+      "kind": "commented",
+      "message": "commented on an issue in AIGitCommit",
+      "link": "https://github.com/HMYDK/AIGitCommit/issues/96#issuecomment-7061354980",
+      "at": "2026-11-21T10:36:46.000Z"
+    },
+    {
+      "kind": "commented",
+      "message": "commented on an issue in AIGitCommit",
+      "link": "https://github.com/HMYDK/AIGitCommit/issues/92#issuecomment-7061354297",
+      "at": "2026-11-21T10:36:43.000Z"
+    },
+    {
+      "kind": "closed",
+      "message": "closed an issue in AIGitCommit",
+      "link": "https://github.com/HMYDK/AIGitCommit/issues/92",
+      "at": "2026-11-21T10:36:45.000Z"
+    },
+    {
+      "kind": "closed",
+      "message": "closed an issue in AIGitCommit",
+      "link": "https://github.com/HMYDK/AIGitCommit/issues/84",
+      "at": "2026-11-21T10:36:41.000Z"
+    },
+    {
+      "kind": "commented",
+      "message": "commented on an issue in AIGitCommit",
+      "link": "https://github.com/HMYDK/AIGitCommit/issues/84#issuecomment-7061353676",
+      "at": "2026-11-21T10:36:39.000Z"
+    },
+    {
+      "kind": "commented",
+      "message": "commented on an issue in AIGitCommit",
+      "link": "https://github.com/HMYDK/AIGitCommit/issues/82#issuecomment-7061353024",
+      "at": "2026-11-21T10:36:36.000Z"
+    },
+    {
+      "kind": "closed",
+      "message": "closed an issue in AIGitCommit",
+      "link": "https://github.com/HMYDK/AIGitCommit/issues/82",
+      "at": "2026-11-21T10:36:38.000Z"
     },
     {
       "kind": "pushed",
       "message": "pushed ai-native-sdlc-dsh",
-      "link": "https://github.com/HMYDK/ai-native-sdlc-dsh/compare/2b781b569f...7837e9a41f",
-      "at": "2026-11-16T13:24:54.000Z"
+      "link": "https://github.com/HMYDK/ai-native-sdlc-dsh/compare/414ea6fe93...8952d7b233",
+      "at": "2026-11-21T04:27:40.000Z"
     },
     {
       "kind": "pushed",
       "message": "pushed ai-native-sdlc-dsh",
-      "link": "https://github.com/HMYDK/ai-native-sdlc-dsh/compare/7074e752c9...b6bd75b1bf",
-      "at": "2026-11-16T02:34:23.000Z"
+      "link": "https://github.com/HMYDK/ai-native-sdlc-dsh/compare/ef2a7f2b6e...414ea6fe93",
+      "at": "2026-11-21T04:03:26.000Z"
+    },
+    {
+      "kind": "contributed",
+      "message": "contributed to HMYDK/ai-native-sdlc-dsh",
+      "link": "https://github.com/HMYDK/ai-native-sdlc-dsh/pull/33",
+      "at": "2026-11-21T04:03:24.000Z"
+    },
+    {
+      "kind": "contributed",
+      "message": "contributed to HMYDK/ai-native-sdlc-dsh",
+      "link": "https://github.com/HMYDK/ai-native-sdlc-dsh/pull/33",
+      "at": "2026-11-21T04:02:28.000Z"
     },
     {
       "kind": "pushed",
       "message": "pushed ai-native-sdlc-dsh",
-      "link": "https://github.com/HMYDK/ai-native-sdlc-dsh/compare/90e48cec28...5ee68cd0b5",
-      "at": "2026-11-15T10:34:22.000Z"
+      "link": "https://github.com/HMYDK/ai-native-sdlc-dsh/compare/7837e9a41f...60174c9066",
+      "at": "2026-11-21T02:01:16.000Z"
     },
     {
-      "kind": "pushed",
-      "message": "pushed ai-native-sdlc-dsh",
-      "link": "https://github.com/HMYDK/ai-native-sdlc-dsh/compare/f5ad48b810...e2fe8c2b80",
-      "at": "2026-11-15T18:28:12.000Z"
+      "kind": "closed",
+      "message": "closed an issue in ai-native-sdlc-dsh",
+      "link": "https://github.com/HMYDK/ai-native-sdlc-dsh/issues/31",
+      "at": "2026-11-21T02:50:53.000Z"
     },
     {
-      "kind": "pushed",
-      "message": "pushed ai-native-sdlc-dsh",
-      "link": "https://github.com/HMYDK/ai-native-sdlc-dsh/compare/b5148358c3...f7c4ad340b",
-      "at": "2026-11-16T07:34:17.000Z"
+      "kind": "contributed",
+      "message": "contributed to HMYDK/ai-native-sdlc-dsh",
+      "link": "https://github.com/HMYDK/ai-native-sdlc-dsh/pull/32",
+      "at": "2026-11-21T02:50:27.000Z"
     },
     {
-      "kind": "pushed",
-      "message": "pushed ai-native-sdlc-dsh",
-      "link": "https://github.com/HMYDK/ai-native-sdlc-dsh/compare/e483d53590...b5148358c3",
-      "at": "2026-11-16T07:24:44.000Z"
-    },
-    {
-      "kind": "pushed",
-      "message": "pushed ai-native-sdlc-dsh",
-      "link": "https://github.com/HMYDK/ai-native-sdlc-dsh/compare/a1693bc1c2...401f091179",
-      "at": "2026-11-15T15:58:31.000Z"
+      "kind": "commented",
+      "message": "commented on an issue in ai-native-sdlc-dsh",
+      "link": "https://github.com/HMYDK/ai-native-sdlc-dsh/issues/31#issuecomment-7056164218",
+      "at": "2026-11-21T02:47:28.000Z"
     }
   ]
 }
