@@ -8,7 +8,7 @@
   "website": "https://github.com/HMYDK",
   "avatar": "https://avatars.githubusercontent.com/u/27269137?s=240&u=5a7c9da77e4f4abb5c18fc8a78f1c6080dd594e1&v=4",
   "createdAt": "2017-04-11T06:22:33Z",
-  "updatedAt": "2026-11-21",
+  "updatedAt": "2026-11-22",
   "totals": {
     "stars": 83,
     "forks": 30,
@@ -17,58 +17,23 @@
     "followers": 12,
     "following": 3,
     "commits": 633,
-    "contributions": 1803,
+    "contributions": 1807,
     "joinedYear": 2017,
-    "tenureYears": 9.61,
+    "tenureYears": 9.62,
     "topRepoStars": 82,
     "topRepo": "AIGitCommit"
   },
   "calendar": {
-    "totalYear": 1043,
+    "totalYear": 1046,
     "maxDay": {
       "date": "2026-11-12",
       "count": 69,
       "weekday": 4
     },
-    "currentStreak": 25,
-    "longestStreak": 25,
+    "currentStreak": 26,
+    "longestStreak": 26,
     "activeDays": 199,
     "days": [
-      {
-        "date": "2025-11-16",
-        "count": 1,
-        "weekday": 0
-      },
-      {
-        "date": "2025-11-17",
-        "count": 0,
-        "weekday": 1
-      },
-      {
-        "date": "2025-11-18",
-        "count": 0,
-        "weekday": 2
-      },
-      {
-        "date": "2025-11-19",
-        "count": 0,
-        "weekday": 3
-      },
-      {
-        "date": "2025-11-20",
-        "count": 0,
-        "weekday": 4
-      },
-      {
-        "date": "2025-11-21",
-        "count": 0,
-        "weekday": 5
-      },
-      {
-        "date": "2025-11-22",
-        "count": 0,
-        "weekday": 6
-      },
       {
         "date": "2025-11-23",
         "count": 0,
@@ -1886,8 +1851,13 @@
       },
       {
         "date": "2026-11-21",
-        "count": 11,
+        "count": 14,
         "weekday": 6
+      },
+      {
+        "date": "2026-11-22",
+        "count": 1,
+        "weekday": 0
       }
     ]
   },
@@ -1934,7 +1904,7 @@
     },
     {
       "month": "Nov",
-      "count": 281
+      "count": 284
     },
     {
       "month": "Dec",
@@ -1968,7 +1938,7 @@
     },
     {
       "day": "Sat",
-      "count": 164
+      "count": 167
     }
   ],
   "yearly": [
@@ -2046,9 +2016,9 @@
     },
     {
       "year": 2026,
-      "contributions": 1010,
+      "contributions": 1014,
       "commits": 360,
-      "prs": 47,
+      "prs": 48,
       "issues": 17,
       "reviews": 0
     }
@@ -2178,7 +2148,7 @@
       "forks": 29,
       "language": "Java",
       "languageColor": "#b07219",
-      "pushedAt": "2026-11-21T02:41:27Z",
+      "pushedAt": "2026-11-21T11:58:53Z",
       "topics": [
         "jetbrains-plugin"
       ]
@@ -2213,7 +2183,7 @@
       "forks": 0,
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "pushedAt": "2026-11-21T04:27:39Z",
+      "pushedAt": "2026-11-21T19:38:31Z",
       "topics": [
         "ai-native",
         "deepseek-harness",
@@ -2236,7 +2206,7 @@
       "forks": 0,
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "pushedAt": "2026-11-20T11:29:38Z",
+      "pushedAt": "2026-11-21T10:56:07Z",
       "topics": []
     },
     {
@@ -2289,6 +2259,24 @@
     }
   ],
   "events": [
+    {
+      "kind": "pushed",
+      "message": "pushed AIGitCommit",
+      "link": "https://github.com/HMYDK/AIGitCommit/compare/e72010a275...d3e2a40ef3",
+      "at": "2026-11-21T11:58:53.000Z"
+    },
+    {
+      "kind": "contributed",
+      "message": "contributed to HMYDK/AIGitCommit",
+      "link": "https://github.com/HMYDK/AIGitCommit/pull/114",
+      "at": "2026-11-21T11:58:52.000Z"
+    },
+    {
+      "kind": "contributed",
+      "message": "contributed to HMYDK/AIGitCommit",
+      "link": "https://github.com/HMYDK/AIGitCommit/pull/114",
+      "at": "2026-11-21T11:50:27.000Z"
+    },
     {
       "kind": "closed",
       "message": "closed an issue in AIGitCommit",
@@ -2396,30 +2384,6 @@
       "message": "contributed to HMYDK/ai-native-sdlc-dsh",
       "link": "https://github.com/HMYDK/ai-native-sdlc-dsh/pull/33",
       "at": "2026-11-21T04:02:28.000Z"
-    },
-    {
-      "kind": "pushed",
-      "message": "pushed ai-native-sdlc-dsh",
-      "link": "https://github.com/HMYDK/ai-native-sdlc-dsh/compare/7837e9a41f...60174c9066",
-      "at": "2026-11-21T02:01:16.000Z"
-    },
-    {
-      "kind": "closed",
-      "message": "closed an issue in ai-native-sdlc-dsh",
-      "link": "https://github.com/HMYDK/ai-native-sdlc-dsh/issues/31",
-      "at": "2026-11-21T02:50:53.000Z"
-    },
-    {
-      "kind": "contributed",
-      "message": "contributed to HMYDK/ai-native-sdlc-dsh",
-      "link": "https://github.com/HMYDK/ai-native-sdlc-dsh/pull/32",
-      "at": "2026-11-21T02:50:27.000Z"
-    },
-    {
-      "kind": "commented",
-      "message": "commented on an issue in ai-native-sdlc-dsh",
-      "link": "https://github.com/HMYDK/ai-native-sdlc-dsh/issues/31#issuecomment-7056164218",
-      "at": "2026-11-21T02:47:28.000Z"
     }
   ]
 }
