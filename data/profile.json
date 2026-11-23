@@ -8,7 +8,7 @@
   "website": "https://github.com/HMYDK",
   "avatar": "https://avatars.githubusercontent.com/u/27269137?s=240&u=5a7c9da77e4f4abb5c18fc8a78f1c6080dd594e1&v=4",
   "createdAt": "2017-04-11T06:22:33Z",
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-23",
   "totals": {
     "stars": 83,
     "forks": 30,
@@ -1858,6 +1858,11 @@
         "date": "2026-11-22",
         "count": 1,
         "weekday": 0
+      },
+      {
+        "date": "2026-11-23",
+        "count": 0,
+        "weekday": 1
       }
     ]
   },
@@ -2183,7 +2188,7 @@
       "forks": 0,
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "pushedAt": "2026-11-21T19:38:31Z",
+      "pushedAt": "2026-11-22T17:11:54Z",
       "topics": [
         "ai-native",
         "deepseek-harness",
@@ -2206,7 +2211,7 @@
       "forks": 0,
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "pushedAt": "2026-11-21T10:56:07Z",
+      "pushedAt": "2026-11-22T11:14:35Z",
       "topics": []
     },
     {
@@ -2259,6 +2264,18 @@
     }
   ],
   "events": [
+    {
+      "kind": "pushed",
+      "message": "pushed ai-native-sdlc-dsh",
+      "link": "https://github.com/HMYDK/ai-native-sdlc-dsh/compare/60174c9066...ef2a7f2b6e",
+      "at": "2026-11-21T02:50:29.000Z"
+    },
+    {
+      "kind": "pushed",
+      "message": "pushed ai-native-sdlc-dsh",
+      "link": "https://github.com/HMYDK/ai-native-sdlc-dsh/compare/095ab0aa2d...f0c06ba3fe",
+      "at": "2026-11-21T01:53:27.000Z"
+    },
     {
       "kind": "pushed",
       "message": "pushed AIGitCommit",
@@ -2372,18 +2389,6 @@
       "message": "pushed ai-native-sdlc-dsh",
       "link": "https://github.com/HMYDK/ai-native-sdlc-dsh/compare/ef2a7f2b6e...414ea6fe93",
       "at": "2026-11-21T04:03:26.000Z"
-    },
-    {
-      "kind": "contributed",
-      "message": "contributed to HMYDK/ai-native-sdlc-dsh",
-      "link": "https://github.com/HMYDK/ai-native-sdlc-dsh/pull/33",
-      "at": "2026-11-21T04:03:24.000Z"
-    },
-    {
-      "kind": "contributed",
-      "message": "contributed to HMYDK/ai-native-sdlc-dsh",
-      "link": "https://github.com/HMYDK/ai-native-sdlc-dsh/pull/33",
-      "at": "2026-11-21T04:02:28.000Z"
     }
   ]
 }

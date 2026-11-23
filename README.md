@@ -4,11 +4,11 @@
 -->
 
 <p align="center">
-<a href="https://raw.githubusercontent.com/HMYDK/HMYDK/main/assets/hero-light.svg?v=4983f41e32" title="open the full-size card">
+<a href="https://raw.githubusercontent.com/HMYDK/HMYDK/main/assets/hero-light.svg?v=ffccb44a8a" title="open the full-size card">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HMYDK/HMYDK/main/assets/hero-dark.svg?v=4983f41e32">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HMYDK/HMYDK/main/assets/hero-light.svg?v=4983f41e32">
-  <img src="https://raw.githubusercontent.com/HMYDK/HMYDK/main/assets/hero-light.svg?v=4983f41e32" alt="HMYDK — terminal boot banner" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HMYDK/HMYDK/main/assets/hero-dark.svg?v=ffccb44a8a">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HMYDK/HMYDK/main/assets/hero-light.svg?v=ffccb44a8a">
+  <img src="https://raw.githubusercontent.com/HMYDK/HMYDK/main/assets/hero-light.svg?v=ffccb44a8a" alt="HMYDK — terminal boot banner" width="100%">
 </picture>
 </a>
 </p>
@@ -30,11 +30,11 @@
 ### `$ fastfetch --live`
 
 <p align="center">
-<a href="https://raw.githubusercontent.com/HMYDK/HMYDK/main/assets/telemetry-light.svg?v=4983f41e32" title="open the full-size card">
+<a href="https://raw.githubusercontent.com/HMYDK/HMYDK/main/assets/telemetry-light.svg?v=ffccb44a8a" title="open the full-size card">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HMYDK/HMYDK/main/assets/telemetry-dark.svg?v=4983f41e32">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HMYDK/HMYDK/main/assets/telemetry-light.svg?v=4983f41e32">
-  <img src="https://raw.githubusercontent.com/HMYDK/HMYDK/main/assets/telemetry-light.svg?v=4983f41e32" alt="HMYDK contribution telemetry" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HMYDK/HMYDK/main/assets/telemetry-dark.svg?v=ffccb44a8a">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HMYDK/HMYDK/main/assets/telemetry-light.svg?v=ffccb44a8a">
+  <img src="https://raw.githubusercontent.com/HMYDK/HMYDK/main/assets/telemetry-light.svg?v=ffccb44a8a" alt="HMYDK contribution telemetry" width="100%">
 </picture>
 </a>
 </p>
@@ -42,11 +42,11 @@
 ### `$ cloc .`
 
 <p align="center">
-<a href="https://raw.githubusercontent.com/HMYDK/HMYDK/main/assets/languages-light.svg?v=4983f41e32" title="open the full-size card">
+<a href="https://raw.githubusercontent.com/HMYDK/HMYDK/main/assets/languages-light.svg?v=ffccb44a8a" title="open the full-size card">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HMYDK/HMYDK/main/assets/languages-dark.svg?v=4983f41e32">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HMYDK/HMYDK/main/assets/languages-light.svg?v=4983f41e32">
-  <img src="https://raw.githubusercontent.com/HMYDK/HMYDK/main/assets/languages-light.svg?v=4983f41e32" alt="HMYDK language fingerprint" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HMYDK/HMYDK/main/assets/languages-dark.svg?v=ffccb44a8a">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HMYDK/HMYDK/main/assets/languages-light.svg?v=ffccb44a8a">
+  <img src="https://raw.githubusercontent.com/HMYDK/HMYDK/main/assets/languages-light.svg?v=ffccb44a8a" alt="HMYDK language fingerprint" width="100%">
 </picture>
 </a>
 </p>
@@ -79,7 +79,7 @@ No third-party stat cards, no trackers — rebuilt daily by GitHub Actions.
 
 <p align="center">
   <sub>
-    compiled 2026-11-22 ·
+    compiled 2026-11-23 ·
     <a href="https://github.com/HMYDK/HMYDK">source</a> ·
     open an issue on any repo if you want to talk
   </sub>
