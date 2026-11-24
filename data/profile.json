@@ -8,7 +8,7 @@
   "website": "https://github.com/HMYDK",
   "avatar": "https://avatars.githubusercontent.com/u/27269137?s=240&u=5a7c9da77e4f4abb5c18fc8a78f1c6080dd594e1&v=4",
   "createdAt": "2017-04-11T06:22:33Z",
-  "updatedAt": "2026-11-23",
+  "updatedAt": "2026-11-24",
   "totals": {
     "stars": 83,
     "forks": 30,
@@ -30,7 +30,7 @@
       "count": 69,
       "weekday": 4
     },
-    "currentStreak": 26,
+    "currentStreak": 0,
     "longestStreak": 26,
     "activeDays": 199,
     "days": [
@@ -1863,6 +1863,11 @@
         "date": "2026-11-23",
         "count": 0,
         "weekday": 1
+      },
+      {
+        "date": "2026-11-24",
+        "count": 0,
+        "weekday": 2
       }
     ]
   },
@@ -2180,6 +2185,18 @@
       ]
     },
     {
+      "name": "HMYDK",
+      "description": "",
+      "url": "https://github.com/HMYDK/HMYDK",
+      "homepage": "",
+      "stars": 0,
+      "forks": 0,
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "pushedAt": "2026-11-23T12:26:44Z",
+      "topics": []
+    },
+    {
       "name": "ai-native-sdlc-dsh",
       "description": "AI 原生 SDLC 作为 DeepSeek Harness 插件：任务状态机、制品链、独立验证、问题闭环与 RSI",
       "url": "https://github.com/HMYDK/ai-native-sdlc-dsh",
@@ -2201,18 +2218,6 @@
         "dsh-plugin",
         "dsh-plugins"
       ]
-    },
-    {
-      "name": "HMYDK",
-      "description": "",
-      "url": "https://github.com/HMYDK/HMYDK",
-      "homepage": "",
-      "stars": 0,
-      "forks": 0,
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "pushedAt": "2026-11-22T11:14:35Z",
-      "topics": []
     },
     {
       "name": "switch-your-fucking-language-version",
